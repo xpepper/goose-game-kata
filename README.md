@@ -1,11 +1,13 @@
 # The Goose Game Kata
+**An important note: this is a kata we used to use in my old company, XPeppers, to asses candidates for recruitment. It's a nice kata, which could be tackled iteratively, following the sequence of features as they are described.**
+
 Goose game is a game where two or more players move pieces around a track by rolling a die. The aim of the game is to reach square number sixty-three before any of the other players and avoid obstacles. ([wikipedia](https://en.wikipedia.org/wiki/Game_of_the_Goose))
 
 This kata has been invented by [Matteo Vaccari](https://github.com/xpmatteo), you can find the original slides [here](https://www.slideshare.net/pierodibello/il-dilettevole-giuoco-delloca-coding-dojo).
 
 ## General requirements
 - You may use whatever programming language you prefer. Use something that you know well.
-- You should commit your code on GitHub or any other SCM repository you prefer (e.g. bitbucket, gitlab, etc) and send us the link.
+- You should commit your code on GitHub or any other SCM repository you prefer (e.g. bitbucket, gitlab, etc).
 - You should release your work under an OSI-approved open-source license of your choice.
 - You should deliver the sources of your application, with a README that explains how to compile and run it.
 
